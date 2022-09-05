@@ -1,0 +1,6 @@
+.col-md-12 .nav ul > li:last-child{
+	color: #9c9c9c;
+}
+.col-md-12 .nav ul > li:last-child:after{
+	margin-left: 0;
+	content: "";
